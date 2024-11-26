@@ -120,5 +120,4 @@ int main() {
 ```
 Solamente se declara la funcion <code>load_script()</code>
 
-
-![image](https://github.com/user-attachments/assets/019929bd-96b6-40ad-a2af-2c1c7795789b)
+![image](https://github.com/user-attachments/assets/a12ac4c7-9ac0-4aa9-bcc4-21ee75bc2c7f)
