@@ -119,5 +119,7 @@ int main() {
 }
 ```
 Solamente se declara la funcion <code>load_script()</code>
+</details>
 
-![image](https://github.com/user-attachments/assets/a12ac4c7-9ac0-4aa9-bcc4-21ee75bc2c7f)
+![uax_logo_nuevo](https://github.com/user-attachments/assets/5fc4fa89-d85e-4635-a325-0d57b8543bd6)
+
